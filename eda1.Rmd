@@ -1,6 +1,6 @@
 ---
 title: "Eda la1"
-Author: Haripriya, H Sai Sravya
+Author: H Sai Sravya
 date: "2023-05-17"
 output:
   word_document: default
